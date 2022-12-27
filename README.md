@@ -1,7 +1,7 @@
 # Proxmox-_bootable_USB
 Creazione della chiavetta USB di Proxmox
 
-1 Scarica il file ISO dell'ambiente virtuale Proxmox dal suo sito Web ufficiale.
+1 Scarica il file ISO dell'ambiente virtuale Proxmox dal suo sito Web ufficiale: https://www.proxmox.com/en/downloads/category/iso-images-pve .
 
 2 Per installare Proxmox utilizzando un'unità USB, procurati BalenaEtcher all'indirizzo: https://www.balena.io/etcher/ , uno strumento per creare unità USB avviabili per Windows, Linux e macOS.
 
